@@ -19,7 +19,7 @@ google-pasta==0.2.0
 grpcio==1.51.3
 h5py==3.8.0
 idna==3.3
-keras==2.11.0
+keras==3.13.2
 libclang==15.0.6.1
 Markdown==3.4.1
 MarkupSafe==2.1.2
